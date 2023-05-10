@@ -13,3 +13,8 @@ void mahasiswa::shownim() { //implementasi method
 }
 
 int main()
+{
+	mahasiswa mhs{ 1 }; //object mhs
+	mhs.shownim();		//member acces operator
+
+}
