@@ -11,3 +11,5 @@ public:
 void mahasiswa::shownim() { //implementasi method
 	cout << "No Induk = " << nim << endl;
 }
+
+int main()
